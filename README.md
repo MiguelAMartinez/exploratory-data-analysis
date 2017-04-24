@@ -1,5 +1,5 @@
 # Exploratory Data Analysis Project
-THe purpose of this project was to explore data using graphs from the base and ggplot2 plotting systems to answer insightful questions.
+The purpose of this project was to explore data using graphs from the base and ggplot2 plotting systems to answer insightful questions.
 
 
 The raw data was obtained from the [National Emissions Inventory (NEI)](https://www3.epa.gov/ttn/chief/eiinformation.html).
